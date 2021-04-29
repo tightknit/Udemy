@@ -1,0 +1,12 @@
+Python has 5 sequence types built in;
+
+
+The string type - Set of ordered set of items
+Lists - 
+tuple -
+range -
+bytes and bytearray
+
+Sequences are ordered therefore we can utilize indexes to access individual items
+
+Not all sequence types can be conctenated or multiplied.
