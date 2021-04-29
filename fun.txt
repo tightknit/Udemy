@@ -1,0 +1,42 @@
+.read_csv
+.concat
+.plot
+.corr
+.pct_change
+.pct_change.corr.min
+sns.heatmap()
+corr[corr>0.5]
+.rolling
+.rolling.mean
+.rolling.std
+.rolling.mean.plot
+.rolling.std.plot
+
+df["stock_a"].cov(df["stock_b"]
+
+df.var
+df["stock_a"].var
+daily_return = df.pct_change
+df.pct_change.cov
+daily_return.cov
+
+df["stock_a"].rolling(30).cov(...)
+
+beta = cov / var
+
+df.loc
+df.iloc
+df.sort_index
+df.sort_values
+df.groupby
+
+pd.cut  forQ7
+
+df.columns = ["a", "b"]
+import numpy as np
+np.random.randint
+
+df.isnull().any()
+df[:,df.column!="a"]
+df.dropna()
+df.drop_duplicates()
